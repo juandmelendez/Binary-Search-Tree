@@ -152,6 +152,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BSTMovieDatabaseCOSC335.cpp" />
+    <ClCompile Include="IntSLLNode.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IntSLLNode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

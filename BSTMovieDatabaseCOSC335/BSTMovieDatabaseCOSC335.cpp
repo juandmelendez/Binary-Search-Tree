@@ -1,4 +1,4 @@
-// BSTMovi//Juan Daniel Melendez Carrasquillo
+//Juan Daniel Melendez Carrasquillo
 //S01201288
 //MovieBSTDatabase.cpp : This file contains the 'main' function. Program execution begins and ends there.
 #include <iostream>

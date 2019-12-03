@@ -18,5 +18,13 @@
     <ClCompile Include="BSTMovieDatabaseCOSC335.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="IntSLLNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IntSLLNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
