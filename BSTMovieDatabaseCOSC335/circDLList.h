@@ -157,8 +157,8 @@ void circDLList<T>::printList() {
 		while (ptrNode->getNext() != head) {
 			cout << ptrNode->getInfo() << " ";
 			ptrNode = ptrNode->getNext();
-			cout << ptrNode->getInfo() << " ";
 		}
+		cout << ptrNode->getInfo() << " ";
 	}
 }
 
@@ -171,8 +171,8 @@ void circDLList<T>::printRevList() {
 		while (ptrNode->getPrev() != head) {
 			ptrNode = ptrNode->getPrev();
 			cout << ptrNode->getInfo() << " ";
-			cout << head->getInfo() << " ";
 		}
+		cout << head->getInfo() << " ";
 	}
 }
 
